@@ -1,16 +1,7 @@
 # FEUP-PLOG
-PLOG at Feup
+PLOG course unit.
 
-
-### TODO:
-Logica:
-
-mover as pecas
-
-lista de jogadas possiveis
-
-verificar se a jogada foi valida
-
-loop entre os dois jogadores
-
-verificar a vitoria
+### Project Info
+* **Date:** 3rd Year, 1st Semester, 2018/2019
+* **Course:** Programação em Lógica (PLOG) | Logic Programming
+* **Course Link:** https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436444
